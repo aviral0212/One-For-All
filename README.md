@@ -58,3 +58,17 @@ If you have useful resources, ideas, or improvements, open an issue or submit a 
 ## Vision
 
 The long-term goal is to build a genuinely useful open resource for early-stage founders and builders who are trying to create something meaningful from zero.
+
+## How to use this repository
+
+Start with the guides if you are exploring startup ideas.
+Use the frameworks to think more clearly.
+Use the checklists and templates when you want to take action.
+
+## What’s next
+
+This week I am improving:
+- validation guides
+- founder resource curation
+- startup idea evaluation tools
+- repository clarity and usability
