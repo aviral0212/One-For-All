@@ -61,14 +61,15 @@ The long-term goal is to build a genuinely useful open resource for early-stage 
 
 ## How to use this repository
 
-Start with the guides if you are exploring startup ideas.
-Use the frameworks to think more clearly.
-Use the checklists and templates when you want to take action.
+- Start with the guides if you are exploring startup ideas
+- Use the frameworks to think more clearly
+- Use the checklists and templates when you want to take action
+- Use the resources section when you want curated learning material
 
-## What’s next
+## What I am improving next
 
-This week I am improving:
-- validation guides
-- founder resource curation
-- startup idea evaluation tools
-- repository clarity and usability
+Current focus:
+- making the guides more practical
+- improving the startup validation content
+- curating better founder resources
+- making the repository easier for first-time founders to use
